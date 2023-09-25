@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kwanjai0525
-- 👀 I’m interested in Crypto,NFT,Metaverse/Web3.0 in general,Fancy tech, Viusal Entertainment
+- 👀 I’m interested in Crypto,NFT,Metaverse/Web3.0 in general,Fancy tech, Visual Entertainment
 - 🌱 I’m currently learning ...Machine Learning(LLM,ANN,NLP),XR,GIS, App Development
 - 💞️ I’m looking to collaborate on ... Solana Network/Polkadot Chain, CyberPort of Hong Kong
 - 📫 How to reach me ... @caterblogteam@gmail.com/ Discord @kwanjai_caterblog
